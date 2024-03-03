@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="member">#12BD56</color>
+    <color name="app_theme">#518CB1</color>
+    <color name="tagline">#CABA30</color>
+    <color name="register_button_2">#3fCDDC39</color>
+    <color name="register_button">#3f673AB7</color>
+    <color name="register_button_12">#CDDC39</color>
+    <color name="register_button_11">#673AB7</color>
+    <color name="registeration_1">#402A2B23</color>
+    <color name="registeration_2">#73854003</color>
+    <color name="fontgradient_1">#BD31E3</color>
+    <color name="fontgradient_2">#D2D60B86</color>
+    <color name="red">#DF1809</color>
+</resources>

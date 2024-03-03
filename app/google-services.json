@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020614612739",
+    "project_id": "dynamofit-510c9",
+    "storage_bucket": "dynamofit-510c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020614612739:android:e8a11a95a5c84117c1bb36",
+        "android_client_info": {
+          "package_name": "com.example.dynamofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_e7u3aZ3vSkfqzwlD2nM3JbI984J6a6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

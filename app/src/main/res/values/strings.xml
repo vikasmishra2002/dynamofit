@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dynamofit</string>
+    <string name="tagline">Unleas your potential,Anytime Anywhere </string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="dynamofit">DYNAMOFIT</string>
+    <string name="todo">TODO</string>
+</resources>
